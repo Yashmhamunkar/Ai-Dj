@@ -16,6 +16,6 @@ body { background-size: cover; }
 
 #volume { font-size: 23px; margin: 15px; } 
 
-.play_button { width: 130px; font-size: 25px; } 
+.play_button { width: 130px; font-size: 25px; position: absolute; left: 100px; top: 150px;} 
 
 canvas { border:5px solid white; border-radius:20px; }
